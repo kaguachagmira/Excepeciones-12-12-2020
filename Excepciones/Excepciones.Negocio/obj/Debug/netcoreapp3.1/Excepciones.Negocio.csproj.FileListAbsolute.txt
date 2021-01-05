@@ -1,0 +1,9 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\bin\Debug\netcoreapp3.1\Excepciones.Negocio.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\bin\Debug\netcoreapp3.1\Excepciones.Negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\bin\Debug\netcoreapp3.1\Excepciones.Negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Negocio\obj\Debug\netcoreapp3.1\Excepciones.Negocio.pdb

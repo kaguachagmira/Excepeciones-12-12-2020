@@ -1,0 +1,16 @@
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.exe
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.deps.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.runtimeconfig.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.runtimeconfig.dev.json
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Cli.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.csprojAssemblyReference.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.AssemblyInfoInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.AssemblyInfo.cs
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.csproj.CoreCompileInputs.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.genruntimeconfig.cache
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Negocio.dll
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\bin\Debug\netcoreapp3.1\Excepciones.Negocio.pdb
+C:\Users\Kevin111\Documents\Tercero\Programacion Visual\Excepciones\Excepciones.Cli\obj\Debug\netcoreapp3.1\Excepciones.Cli.csproj.CopyComplete

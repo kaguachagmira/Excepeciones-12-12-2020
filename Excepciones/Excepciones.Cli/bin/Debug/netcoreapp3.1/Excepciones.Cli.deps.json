@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Excepciones.Cli/1.0.0": {
+        "dependencies": {
+          "Excepciones.Negocio": "1.0.0"
+        },
+        "runtime": {
+          "Excepciones.Cli.dll": {}
+        }
+      },
+      "Excepciones.Negocio/1.0.0": {
+        "runtime": {
+          "Excepciones.Negocio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Excepciones.Cli/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Excepciones.Negocio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
